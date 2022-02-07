@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+src/img/punk4596.png
 
 # testing
 /coverage
